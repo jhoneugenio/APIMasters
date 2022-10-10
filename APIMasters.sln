@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMasters", "APIMasters\APIMasters.csproj", "{5608FB69-1F10-4895-AF19-E6CBB5F7DBB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5608FB69-1F10-4895-AF19-E6CBB5F7DBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5608FB69-1F10-4895-AF19-E6CBB5F7DBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5608FB69-1F10-4895-AF19-E6CBB5F7DBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5608FB69-1F10-4895-AF19-E6CBB5F7DBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {692DFFD1-F888-47A8-8478-124C59A63843}
+	EndGlobalSection
+EndGlobal
