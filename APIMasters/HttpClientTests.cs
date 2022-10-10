@@ -91,12 +91,15 @@ namespace APIMasters
             // Update value of userData
             petData = new PetModel()
             {
-                Id = 5555, //update
+                //update value
+                Id = 5555, 
                 Category = newCategory,
                 Name = petName,
-                PhotoUrls = new string[] { "https://petscute.com/" }, //update
+                //update value
+                PhotoUrls = new string[] { "https://petscute.com/" }, 
                 Tags = newTag,
-                Status = "sold" //update
+                //update value
+                Status = "sold" 
             };
 
             // Serialize Content
